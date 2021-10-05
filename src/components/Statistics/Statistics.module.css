@@ -1,0 +1,30 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.positive {
+  color: greenyellow;
+}
+
+.middle {
+  color: rgb(241, 151, 91);
+}
+
+.negative {
+  color: orangered;
+}
+
+.sum {
+  color: skyblue;
+  display: block;
+  margin-top: 8px;
+}
+
+.percents {
+  color: yellow;
+}

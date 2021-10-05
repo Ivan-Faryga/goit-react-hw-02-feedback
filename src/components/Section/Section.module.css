@@ -1,0 +1,11 @@
+.section {
+  position: absolute;
+  left: auto;
+  top: 55%;
+}
+
+.title {
+  font-size: 35px;
+  color: orange;
+  letter-spacing: 0.2em;
+}
